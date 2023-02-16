@@ -22,7 +22,7 @@ _Analizar cómo la onda senoidal se comporta en circuitos eléctricos simples, c
 
 3.-MARCO TEÓRICO
 
-[![Captura-de-pantalla-20230216-110152.png](https://i.postimg.cc/65zGVBDw/Captura-de-pantalla-20230216-110152.png)](https://postimg.cc/zVbB8YzP)
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/65zGVBDw/Captura-de-pantalla-20230216-110152.png' border='0' alt='Captura-de-pantalla-20230216-110152'/></a>
 
 4.-RESPUESTA A INTERROGANTES Y CALCULO DE ERROR
 
@@ -58,11 +58,6 @@ Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnit
 
 4.5.4. Responda las siguientes preguntas:
 
-[![Captura-de-pantalla-20230216-110214.png](https://i.postimg.cc/Y91vv715/Captura-de-pantalla-20230216-110214.png)](https://postimg.cc/k6gJHkYs)
-
-[![Captura-de-pantalla-20230216-110220.png](https://i.postimg.cc/Y0MhgPRh/Captura-de-pantalla-20230216-110220.png)](https://postimg.cc/34f8QnPT)
-
-[![Captura-de-pantalla-20230216-110225.png](https://i.postimg.cc/NFDLxxCb/Captura-de-pantalla-20230216-110225.png)](https://postimg.cc/0K68k7sJ)
 
 5.-VIDEO
 
