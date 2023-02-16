@@ -60,9 +60,13 @@ Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnit
 
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/Y91vv715/Captura-de-pantalla-20230216-110214.png" alt="Captura-de-pantalla-20230216-110214"/></a><br/><br/>
 
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/Y0MhgPRh/Captura-de-pantalla-20230216-110220.png" alt="Captura-de-pantalla-20230216-110220"/></a>
+.
 
+[![Captura-de-pantalla-20230216-111514.png](https://i.postimg.cc/jjf1n3LV/Captura-de-pantalla-20230216-111514.png)](https://postimg.cc/zLJ79jCp)
 
+.
+
+[![Captura-de-pantalla-20230216-111618.png](https://i.postimg.cc/Y0rDVp8k/Captura-de-pantalla-20230216-111618.png)](https://postimg.cc/wyrkRYSb)
 
 5.-VIDEO
 
