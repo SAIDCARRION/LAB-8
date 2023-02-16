@@ -22,8 +22,7 @@ _Analizar cómo la onda senoidal se comporta en circuitos eléctricos simples, c
 
 3.-MARCO TEÓRICO
 
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/65zGVBDw/Captura-de-pantalla-20230216-1101
- 
+[![Captura-de-pantalla-20230216-110152.png](https://i.postimg.cc/65zGVBDw/Captura-de-pantalla-20230216-110152.png)](https://postimg.cc/zVbB8YzP)
 
 4.-RESPUESTA A INTERROGANTES Y CALCULO DE ERROR
 
